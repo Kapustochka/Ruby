@@ -1,1 +1,27 @@
-inherit_from: .rubocop_todo.yml
+AllCops:
+  TargetRubyVersion: 2.4
+  ExtraDetails: true
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+  Exclude:
+    - db/schema.rb
+    - vendor/**/*
+Rails:
+  Enabled: true
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Style/MixinUsage:
+  Exclude:
+    - 'bin/setup'
+    - 'bin/update'
+
+Style/Documentation:
+  Enabled: false
+
+Style/NumericLiterals:
+  Exclude:
