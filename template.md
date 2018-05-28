@@ -1,6 +1,6 @@
-| Name              | Last week, Project:hours          |Next week, Project:hours             | Today presence (1/0)  |
-| -------------     |:--------------                    | :-----                              |:-----:                       |
-| Вороненко Олексій | **??** на проекті "**HackerRank**" |**??** на проекті "**HackerRank**"  |  :white_check_mark:          |                 
+| Name              | Last week, Project:hours           |Next week, Project:hours            | Today presence               |
+| -------------     |:--------------                     | :-----                             |:-----:                       |
+| Вороненко Олексій | **??** на проекті "**HackerRank**" |**??** на проекті "**HackerRank**"  |                              |                 
 | Гавриляк Вова     | **??** на проекті "**StrongQA**"   |**??** на проекті "**StrongQA**"    |  :x:                         |
 | Зимогляд Іван     | **??** на проекті "**StrongQA**"   |**??** на проекті "**StrongQA**"    |  :heavy_check_mark:          |                  
 | Зозуляк Іван      | **??** на проекті "**NowHere**"    |**??** на проекті "**NowHere**"     |                              |
