@@ -1,4 +1,4 @@
-| Name              | Last week, Project:hours           |Next week, Project:hours            | Today presence               |
+| Name              | Last week, Project:hours           |Next week, Project:hours            | Today's meeting presence     |         
 | -------------     |:--------------                     | :-----                             |:-----:                       |
 | Вороненко Олексій | **??** на проекті "**HackerRank**" |**??** на проекті "**HackerRank**"  |                              |                 
 | Гавриляк Вова     | **??** на проекті "**StrongQA**"   |**??** на проекті "**StrongQA**"    |  :x:                         |
